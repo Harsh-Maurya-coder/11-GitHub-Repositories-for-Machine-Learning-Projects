@@ -1,6 +1,6 @@
 # 11-GitHub-Repositories-for-Machine-Learning-Projects
 
-![](https://raw.githubusercontent.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/main/images/Colorful%20Futuristic%20Technology%20Poster.gif)
+![](https://github.com/Harsh-Maurya-coder/11-GitHub-Repositories-for-Machine-Learning-Projects/blob/main/image/11-GitHub-Repositories-for%20Machine-Learning-Projects.gif)
 11 GitHub Repositories for Machine Learning Projects
 
 ***This list is continuously updated.***
