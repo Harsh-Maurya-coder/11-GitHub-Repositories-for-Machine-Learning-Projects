@@ -12,8 +12,7 @@
 | 5     | Randy Olson's data analysis and machine learning projects    | [👆](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) |
 | 6     | Awesome Generative AI Project                                | [👆](https://github.com/steven2358/awesome-generative-ai) |
 | 7     | Machine-Learning-with-Python                                 | [👆](https://github.com/devAmoghS/Machine-Learning-with-Python) |
-| 8     |The Most Comprehensive Collection of Kaggle 
-          Competition Solutions and Ideas                              | [👆](https://github.com/faridrashidi/kaggle-solutions) |
+| 8     |The Most Comprehensive Collection of Kaggle Competition Solutions and Ideas                              | [👆](https://github.com/faridrashidi/kaggle-solutions) |
 | 9     | Awesome LangChain Projects                                   | [👆](https://github.com/kyrolabs/awesome-langchain) |
 | 10    | The Machine & Deep Learning Compendium                       | [👆](https://github.com/orico/www.mlcompendium.com) |
 | 11    | ChatterBot machine-learning Proect                           | [👆](https://github.com/gunthercox/ChatterBot) |
