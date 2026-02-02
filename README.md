@@ -1,7 +1,6 @@
 # 11-GitHub-Repositories-for-Machine-Learning-Projects
 
 ![](https://github.com/Harsh-Maurya-coder/11-GitHub-Repositories-for-Machine-Learning-Projects/blob/main/image/11-GitHub-Repositories-for%20Machine-Learning-Projects.gif)
-11 GitHub Repositories for Machine Learning Projects
 
 ***This list is continuously updated.***
 
